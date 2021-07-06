@@ -8,9 +8,6 @@
     font-size:30px;
     color:orange;
 }
-h1, p, h6, h2{
-    color:gray;
-}
 .skip{
     display:flex;
 }
@@ -84,7 +81,7 @@ h1{
     transition: all 0.5s ease 0s;
 }
 .button:hover{
-    color:gray;
+    color:black;
     text-transform: uppercase;
 }
 .junk{
